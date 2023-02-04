@@ -13,5 +13,5 @@ I learned how machine learning explainability can be used to take a deep dive in
 The data set we will be using is a dataset from the University of California Irvine's Machine Learning Repository called Wine Quality Dataset. The dataset consists of red vinho verde wine samples, from the north of Portugal. We have 11 variables based on a physiochemical test and 1 quality score variable.
 
 # Files Used
-winequality-red.csv  
-picking-wine-it-s-all-in-the-data.ipynb
+winequality-red.csv - dataset
+picking-wine-it-s-all-in-the-data.ipynb - Kaggle python notebook
